@@ -1,0 +1,3 @@
+# Never leave this file empty
+domain.example.abc
+# ScarletParrot/DiscordObhodDPI 110f181f7bdf
